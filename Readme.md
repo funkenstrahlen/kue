@@ -912,7 +912,6 @@ before(function() {
 
 ## Screencasts
 
-  - [Introduction](http://www.screenr.com/oyNs) to Kue
   - API [walkthrough](https://vimeo.com/26963384) to Kue
 
 ## Contributing
